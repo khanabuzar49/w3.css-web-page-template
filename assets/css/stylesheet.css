@@ -53,3 +53,26 @@ table {
 body {
     font-family: 'roboto', sans-serif
 }
+/* start of top nav section */
+.topnav ul li{
+    display: inline-block;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.topnav{
+    background-color: black;
+    padding: 13px;
+    position: fixed;
+    width: 100%;
+}
+.topnav a{
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 16px
+}
+/* .topnav ul li:first-child{
+    background-color: #333333;
+} */
+/* end of top nav section */
