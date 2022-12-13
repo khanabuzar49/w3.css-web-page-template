@@ -106,3 +106,38 @@ h4{
     padding: 8px 16px;
 }
 /* end of side nav section */
+/* start of section tag */
+#section1, #section2, #section3, #page-numbers, footer{
+    margin-left: 250px;
+}
+.details h1{
+    color: #009688;
+    font-size: 36px;
+}
+.details p{
+    font-size: 15px;
+}
+.rightads p{
+    text-align: center;
+    border: 1px solid #ccc;
+}
+.pg ul li{
+    display: inline-block;
+}
+.pg ul li a{
+    color: black;
+    font-size: 15px;
+    padding: 8px 16px;
+}
+.pg ul li a:hover{
+    background-color: black;
+    color: white;
+}
+.pg ul li:first-child{
+    background-color:black;
+    color: white;
+}
+.pg ul{
+    text-align: center;
+}
+/* end of section tag */
