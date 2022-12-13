@@ -70,7 +70,11 @@ a{
 .topnav a{
     color: #fff;
     font-size: 18px;
-    padding: 8px 16px
+    padding: 12px 16px
+}
+.topnav ul li a:hover{
+    background-color:white;
+    color: black;
 }
 /* .topnav ul li:first-child{
     background-color: #333333;
